@@ -1,10 +1,14 @@
-# Manual-Testing-Project1
-This repository contains a list of all the projects completed during my manual testing training.The projects were completed using a combination of manual testing techniques and test management tools.
+# Manual-Testing-Projects
+This repository contains a list of all the projects I have done in Manual Testing.The projects were completed using a combination of manual testing techniques and test management tools.
+
 ## Project List
 
 | Project Name | Description | Tools Used |
 |--------------|-------------|------------|
-| Project 1    | Tested a web application for functionality and usability. | Manual testing, Test Plan, Test Cases | JIRA |
+| Project 1 | Tested a VWO application for functionality and usability.| Manual testing, Test Plan, Test Cases | JIRA |
+| Project 2 | Tested a HRM application for functionality and usability. | Manual testing, Test Plan, Test Cases | JIRA |
+
+
 
 ## Contributing
 
@@ -32,4 +36,11 @@ You can copy and paste this code into a Markdown file and modify the text as nee
 - Test Reports
 - Test Metrics
 
+### Project 2
+- Test Plan
+- Test Cases
+- Bug Report
+- RTM
+- Test Reports
+- Test Metrics
 
