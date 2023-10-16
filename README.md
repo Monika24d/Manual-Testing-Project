@@ -9,15 +9,9 @@ This repository contains a list of all the projects I have done in Manual Testin
 | Project 2 | Tested a HRM application for functionality and usability. | Manual testing, Test Plan, Test Cases | JIRA |
 
 
-
 ## Contributing
 
 If you have any feedback or suggestions for improvements, please feel free to open an issue or pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-You can copy and paste this code into a Markdown file and modify the text as needed
 
 ## Templates
 - Test Plan
